@@ -4,3 +4,6 @@
 ## 1. Titanic
 ### 1. 데이터셋 확인
 #### 1.1 Null data check
+
+## 2. Movie Industry
+### 데이터 : https://www.kaggle.com/datasets/danielgrijalvas/movies
