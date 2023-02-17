@@ -2,7 +2,7 @@
 캐글 데이터를 활용한 데이터분석
 
 ## Palygorund Series
-### 3-7
+### 3-7 : 예약 취소 예측
 #### data : https://www.kaggle.com/competitions/playground-series-s3e7/data
 
 ## 1. Titanic
