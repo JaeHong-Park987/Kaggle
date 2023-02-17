@@ -4,6 +4,7 @@
 ## Palygorund Series
 ### 3-7 : 예약 취소 예측
 #### data : https://www.kaggle.com/competitions/playground-series-s3e7/data
+##### 2/17 : value_counts()로 변수 별 특징 파악하기
 
 ## 1. Titanic
 ### 1. 데이터셋 확인
