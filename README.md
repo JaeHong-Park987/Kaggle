@@ -5,6 +5,7 @@
 ### 3-7 : 예약 취소 예측
 #### data : https://www.kaggle.com/competitions/playground-series-s3e7/data
 ##### 2/22 0.89323, 265/459
+##### 2/23 0.88668
 
 
 ## 1. Titanic
