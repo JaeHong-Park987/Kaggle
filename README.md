@@ -4,9 +4,10 @@
 ## Palygorund Series
 ### 3-7 : 예약 취소 예측
 #### data : https://www.kaggle.com/competitions/playground-series-s3e7/data
-##### 2/22 0.89323, 265/459
+##### 2/22 0.89323
 ##### 2/23 0.88668
 ##### 2/25 0.89062
+##### 2/27 0.89743
 
 
 ## 1. Titanic
