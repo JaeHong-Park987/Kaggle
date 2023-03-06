@@ -8,6 +8,11 @@
 ##### 2/23 0.88668
 ##### 2/25 0.89062
 ##### 2/27 0.89743
+##### 최종 : 368 / 678
+
+### 3-8 : 보석 가격 예측
+#### data : https://www.kaggle.com/competitions/playground-series-s3e8/data
+##### 3/6 1141.26711
 
 
 ## 1. Titanic
