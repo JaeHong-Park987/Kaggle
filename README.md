@@ -15,6 +15,10 @@
 ##### 3/6 1141.26711
 ##### 3/7 596.97004
 
+### 3-9 : 콘크리트 강도 예측
+#### data : https://www.kaggle.com/competitions/playground-series-s3e9/data
+##### 3/7 12.87748
+
 
 ## 1. Titanic
 ### 1. 데이터셋 확인
